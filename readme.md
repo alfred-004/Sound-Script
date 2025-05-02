@@ -2,7 +2,6 @@
 
 A full-stack application for recording, transcribing, and summarizing audio recordings with speaker diarization and AI-powered summaries.
 
-![App Screenshot](https://api.placeholder.com/800/400)
 
 ## Features
 
